@@ -1,0 +1,13 @@
+/home/kobalt/Documents/moxie_/it-academy/dotNET/M1.C#-Javascript/Exercici-6/Ex6_CSharp_Tank/bin/Debug/netcoreapp3.1/Ex6_CSharp_Tank
+/home/kobalt/Documents/moxie_/it-academy/dotNET/M1.C#-Javascript/Exercici-6/Ex6_CSharp_Tank/bin/Debug/netcoreapp3.1/Ex6_CSharp_Tank.deps.json
+/home/kobalt/Documents/moxie_/it-academy/dotNET/M1.C#-Javascript/Exercici-6/Ex6_CSharp_Tank/bin/Debug/netcoreapp3.1/Ex6_CSharp_Tank.runtimeconfig.json
+/home/kobalt/Documents/moxie_/it-academy/dotNET/M1.C#-Javascript/Exercici-6/Ex6_CSharp_Tank/bin/Debug/netcoreapp3.1/Ex6_CSharp_Tank.runtimeconfig.dev.json
+/home/kobalt/Documents/moxie_/it-academy/dotNET/M1.C#-Javascript/Exercici-6/Ex6_CSharp_Tank/bin/Debug/netcoreapp3.1/Ex6_CSharp_Tank.dll
+/home/kobalt/Documents/moxie_/it-academy/dotNET/M1.C#-Javascript/Exercici-6/Ex6_CSharp_Tank/bin/Debug/netcoreapp3.1/Ex6_CSharp_Tank.pdb
+/home/kobalt/Documents/moxie_/it-academy/dotNET/M1.C#-Javascript/Exercici-6/Ex6_CSharp_Tank/obj/Debug/netcoreapp3.1/Ex6_CSharp_Tank.csprojAssemblyReference.cache
+/home/kobalt/Documents/moxie_/it-academy/dotNET/M1.C#-Javascript/Exercici-6/Ex6_CSharp_Tank/obj/Debug/netcoreapp3.1/Ex6_CSharp_Tank.AssemblyInfoInputs.cache
+/home/kobalt/Documents/moxie_/it-academy/dotNET/M1.C#-Javascript/Exercici-6/Ex6_CSharp_Tank/obj/Debug/netcoreapp3.1/Ex6_CSharp_Tank.AssemblyInfo.cs
+/home/kobalt/Documents/moxie_/it-academy/dotNET/M1.C#-Javascript/Exercici-6/Ex6_CSharp_Tank/obj/Debug/netcoreapp3.1/Ex6_CSharp_Tank.csproj.CoreCompileInputs.cache
+/home/kobalt/Documents/moxie_/it-academy/dotNET/M1.C#-Javascript/Exercici-6/Ex6_CSharp_Tank/obj/Debug/netcoreapp3.1/Ex6_CSharp_Tank.dll
+/home/kobalt/Documents/moxie_/it-academy/dotNET/M1.C#-Javascript/Exercici-6/Ex6_CSharp_Tank/obj/Debug/netcoreapp3.1/Ex6_CSharp_Tank.pdb
+/home/kobalt/Documents/moxie_/it-academy/dotNET/M1.C#-Javascript/Exercici-6/Ex6_CSharp_Tank/obj/Debug/netcoreapp3.1/Ex6_CSharp_Tank.genruntimeconfig.cache
